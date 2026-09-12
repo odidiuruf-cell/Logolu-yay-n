@@ -2,7 +2,7 @@
 
 mkdir -p /app/hls
 
-INPUT_STREAM=https://andro.evrenesoglu99.click/checklist/batutest.m3u8
+INPUT_STREAM=https://corestream.d72377a9ds0ec71.cfd//hls/bein1.m3u8
 
 echo "360p bufferlı stream başlatılıyor..."
 
